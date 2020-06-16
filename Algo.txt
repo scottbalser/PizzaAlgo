@@ -1,2 +1,9 @@
 1. Decide where to order
 2. Decide what pizza to order
+3. Call Pizza joint
+4. order pizza
+5. give delivery address
+6. pay for pizza
+7. wait for delivery
+8. accept pizza
+9. enjoy
