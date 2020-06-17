@@ -9,3 +9,4 @@
 7. pay with cash if no cc was given
 8. accept pizza
 9. enjoy
+10. clean up
